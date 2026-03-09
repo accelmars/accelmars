@@ -13,11 +13,11 @@ AccelMars is a structured operating system for human-AI collaboration. A single 
 | **Strata** | Design system — OKLCH tokens, dark-first ambient UI, Astro SSG | Design Complete |
 | **Pact** | Contract execution engine — format, runtime, intelligence layers | Shaping |
 | **Schole** | Learning platform — education and collaboration tools | Building |
-| **Canonical** | Content platform | Designing |
+| **Canonical** | Content platform | Building |
 
 ## Stack
 
-Next.js 15, Supabase, Tailwind CSS v4, Astro, Rust (CLI tooling), GitHub (42 repos, 9 projects), claude-code
+Next.js 16, Supabase, Tailwind CSS v4, Astro, Rust (CLI tooling), GitHub (42 repos, 9 projects), claude-code
 
 ## Open Source
 
@@ -25,7 +25,7 @@ Next.js 15, Supabase, Tailwind CSS v4, Astro, Rust (CLI tooling), GitHub (42 rep
 
 ## About
 
-Built by [Huy Dang](https://github.com/accelmars). Based in Thailand.
+Built by [Huy Dang](https://github.com/accelmars). Based in Vietnam.
 
 AccelMars proves that one human + AI collaboration at executive level can produce full-team output — not by working harder, but by building better systems.
 
