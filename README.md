@@ -1,28 +1,24 @@
 # AccelMars
 
-**Building the operating system for AI-era work.**
+**AI infrastructure for the way work actually works now.**
 
-We build products that prove a single human + AI collaboration can produce what traditionally required a full team.
-
-## Live
-
-- **[accelmars.com](https://accelmars.com)** — Company home
-- **[mind.accelmars.com](https://mind.accelmars.com)** — Knowledge OS (Beta)
-- **[ops.accelmars.com](https://ops.accelmars.com)** — Operations
-
-## Building
-
-- **Pact** — Contract execution engine
-- **Strata** — Design system
-- **Schole** — Learning platform
+We build Rust-native systems that let small teams operate at the scale of large organizations. Not by adding headcount — by building better tools.
 
 ## Open Source
 
-- [mind-template](https://github.com/accelmars/mind-template) — AI-first knowledge management starter
+[**AccelMars Gateway**](https://github.com/accelmars/gateway) — Universal AI gateway. Route all your AI calls through one service. Multi-provider, OpenAI-compatible, quality-tier routing, zero vendor lock-in. Production-ready.
 
-## Connect
+[**Mind Template**](https://github.com/accelmars/mind-template) — AI-first knowledge management starter for teams that treat knowledge as infrastructure.
 
-Built by [Huy Dang](https://github.com/accelmars) in Vietnam.
+More is coming.
+
+## Learn More
+
+[accelmars.com](https://accelmars.com)
+
+## About
+
+Founded by [Huy Dang](https://github.com/accelmars). Built in Ho Chi Minh City, Vietnam.
 
 ---
 
