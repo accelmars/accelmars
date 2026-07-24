@@ -1,0 +1,5 @@
+{"step_id":"phase-1-task-5","model":"standard","input_tokens":73663,"output_tokens":1758,"total_usd":0.021822809999999998,"timestamp_utc":"1784708412Z","turns":6,"stop_reason":"goal_verified","task_class":null}
+{"step_id":"phase-1-task-6","model":"max","input_tokens":40002,"output_tokens":971,"total_usd":0.134571,"timestamp_utc":"1784708595Z","turns":6,"stop_reason":"goal_verified","task_class":null}
+{"step_id":"phase-1-task-7","model":"standard","input_tokens":191064,"output_tokens":2336,"total_usd":0.05415688,"timestamp_utc":"1784708664Z","turns":15,"stop_reason":"no_progress","task_class":null}
+{"step_id":"phase-1-task-8","model":"quick","input_tokens":237992,"output_tokens":18487,"total_usd":0.00880359,"timestamp_utc":"1784708959Z","turns":10,"stop_reason":"end_turn","task_class":null}
+{"step_id":"phase-1-task-9","model":"standard","input_tokens":11871,"output_tokens":432,"total_usd":0.0036803699999999996,"timestamp_utc":"1784708974Z","turns":3,"stop_reason":"end_turn","task_class":null}
