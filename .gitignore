@@ -1,0 +1,6 @@
+
+# Nested repos with their own remotes (assay, assay-engine, gateway) — cloned
+# here as siblings of the substrate; each is delivered from its own checkout.
+/assay/
+/assay-engine/
+/gateway/
