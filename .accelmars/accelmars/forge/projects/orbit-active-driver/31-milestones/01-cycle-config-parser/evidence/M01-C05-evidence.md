@@ -40,5 +40,5 @@ Total: 322 lines produced.
 - Execution time: ~15 minutes
 - Lines produced: 322 (252 + 69 + 1)
 - Test count delta: +6 (6 new named integration tests)
-- Pre-flight corrections: 3 (path anchors /Users/dang4huy/ → /Users/accelmars/accelmars/; TELEMETRY-DIR created; layered_resolution test design corrected)
+- Pre-flight corrections: 3 (path anchors ~/ → /Users/accelmars/accelmars/; TELEMETRY-DIR created; layered_resolution test design corrected)
 - [ENGINE-LESSON] tags: —

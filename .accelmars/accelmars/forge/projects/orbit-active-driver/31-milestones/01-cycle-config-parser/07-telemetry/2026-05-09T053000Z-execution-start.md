@@ -13,7 +13,7 @@ State transition: READY → EXECUTING
 
 Pre-flight:
 - $(anchor root): /Users/accelmars/accelmars/.accelmars/accelmars
-- Path anchor correction: contract uses /Users/dang4huy/ → /Users/accelmars/accelmars/ (2 tokens)
+- Path anchor correction: contract uses ~/ → /Users/accelmars/accelmars/ (2 tokens)
 - TELEMETRY-DIR created (was missing) — 1 pre-flight correction
 - Dependencies C01–C04: all DONE per _STATUS.md
 - Workspace baseline: all passing, 0 failures
