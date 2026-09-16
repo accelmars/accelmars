@@ -1,25 +1,40 @@
-# AccelMars
+## AccelMars
 
-**AI infrastructure for the way work actually works now.**
+**Rust-native infrastructure for AI-era work.**
 
-We build Rust-native systems that let small teams operate at the scale of large organizations. Not by adding headcount — by building better tools.
+I build the systems that let one founder plus an AI workforce operate at the scale that used to
+take a team. Most of that machinery is private. What follows is what is published, and what you
+can actually do with it today.
 
-## Open Source
+### Published here
 
-[**AccelMars Gateway**](https://github.com/accelmars/gateway) — Universal AI gateway. Route all your AI calls through one service. Multi-provider, OpenAI-compatible, quality-tier routing, zero vendor lock-in. Production-ready.
+| Repository | What it is | Status |
+|---|---|---|
+| [**anchor**](https://github.com/accelmars/anchor) | Reference-safe file operations for Markdown workspaces — move files without breaking cross-file links. Rust CLI. | `v1.0.0` · Apache-2.0 |
+| [**os-env**](https://github.com/accelmars/os-env) | The env-var contract engines read at startup. Small support crate; published because `anchor` depends on it. | `v0.3.1` · Apache-2.0 |
+| [**mind-template**](https://github.com/accelmars/mind-template) | A starter repository for keeping knowledge in a shape an AI assistant can actually use. Template — click *Use this template*. | Apache-2.0 |
+| [**.github**](https://github.com/accelmars/.github) | Account-wide contribution, conduct, security and support defaults. | — |
 
-[**Mind Template**](https://github.com/accelmars/mind-template) — AI-first knowledge management starter for teams that treat knowledge as infrastructure.
+Neither Rust crate is on crates.io. Install `anchor` from source:
 
-More is coming.
+```sh
+cargo install --git https://github.com/accelmars/anchor
+```
 
-## Learn More
+### What is not here
 
-[accelmars.com](https://accelmars.com)
+Most AccelMars engines are private. Whether a given engine is published is a deliberate decision
+made one engine at a time — there is no blanket promise that more will follow, and no timeline.
+If a repository is not listed above, it is not public.
 
-## About
+### The company
 
-Founded by [Huy Dang](https://github.com/accelmars). Built in Ho Chi Minh City, Vietnam.
+AccelMars is building an AI-era company operating system and is **not open for sale** — no general
+availability, no paying customers. [accelmars.com](https://accelmars.com) is the front door;
+[`llms.txt`](https://accelmars.com/llms.txt) is the machine-readable version of the same posture.
+
+📍 Ho Chi Minh City, Vietnam · ✉️ hello@accelmars.com
 
 ---
 
-*AccelMars Co., Ltd.*
+<sub>AccelMars Co., Ltd.</sub>
