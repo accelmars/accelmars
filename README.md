@@ -12,7 +12,7 @@ can actually do with it today.
 |---|---|---|
 | [**anchor**](https://github.com/accelmars/anchor) | Reference-safe file operations for Markdown workspaces — move files without breaking cross-file links. Rust CLI. | `v1.0.0` · Apache-2.0 |
 | [**os-env**](https://github.com/accelmars/os-env) | The env-var contract engines read at startup. Small support crate; published because `anchor` depends on it. | `v0.3.1` · Apache-2.0 |
-| [**mind-template**](https://github.com/accelmars/mind-template) | A starter repository for keeping knowledge in a shape an AI assistant can actually use. Template — click *Use this template*. | Apache-2.0 |
+| [**mind-template**](https://github.com/accelmars/mind-template) | Continuity across AI sessions in plain Markdown — a protocol a fresh AI can pick up without a recap. Template — click *Use this template*. | `v2.0.0` · Apache-2.0 |
 | [**.github**](https://github.com/accelmars/.github) | Account-wide contribution, conduct, security and support defaults. | — |
 
 Neither Rust crate is on crates.io. Install `anchor` from source, pinned to a release:
