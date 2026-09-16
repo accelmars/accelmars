@@ -15,10 +15,10 @@ can actually do with it today.
 | [**mind-template**](https://github.com/accelmars/mind-template) | A starter repository for keeping knowledge in a shape an AI assistant can actually use. Template — click *Use this template*. | Apache-2.0 |
 | [**.github**](https://github.com/accelmars/.github) | Account-wide contribution, conduct, security and support defaults. | — |
 
-Neither Rust crate is on crates.io. Install `anchor` from source:
+Neither Rust crate is on crates.io. Install `anchor` from source, pinned to a release:
 
 ```sh
-cargo install --git https://github.com/accelmars/anchor
+cargo install --git https://github.com/accelmars/anchor --tag accelmars-anchor-v2.0.0
 ```
 
 ### What is not here
